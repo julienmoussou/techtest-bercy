@@ -1,0 +1,7 @@
+# larger than GitHub’s 100MB limit
+papers.csv 
+
+# code outputs
+coauthor_edges.txt
+main_coauthor_edges.txt
+mcl_clusters.txt

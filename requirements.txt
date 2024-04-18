@@ -1,0 +1,2 @@
+pandas[plot]
+networkx[default,extra]
